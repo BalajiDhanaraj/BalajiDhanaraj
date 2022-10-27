@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajidhanaraj&label=Profile%20views&color=0e75b6&style=flat" alt="balajidhanaraj" /> </p>
 
-- 🔭 I’m currently working on [Python🐍](https://github.com/BalajiDhanaraj/CorePython)
+- 🔭 I’m currently working on [Java](https://github.com/BalajiDhanaraj/CorePython)
 
-- 🌱 I’m currently learning **Selenium with python**
+- 🌱 I’m currently learning **API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BalajiDhanaraj?tab=repositories](https://github.com/BalajiDhanaraj?tab=repositories)
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/di2community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/di2community" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/d-balaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/d-balaji/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/d-balaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/d-balaji/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11613569/d-balaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11613569/d-balaji" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/developerinsider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/developerinsider" height="30" width="40" /></a>
 <a href="https://instagram.com/developer_insider_community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_insider_community" height="30" width="40" /></a>
