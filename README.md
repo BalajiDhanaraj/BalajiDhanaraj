@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/channel/ucomhaifqf73y-9t5d7ortya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucomhaifqf73y-9t5d7ortya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/balajiwalker333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/balajiwalker333" height="30" width="40" /></a>
 <a href="https://discord.gg/CDBtX2gx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CDBtX2gx" height="30" width="40" /></a>
-<a href="https://balajiwalker.atlassian.net/wiki/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://balajiwalker.atlassian.net/wiki/home" height="30" width="40" /></a>
+<a href="https://balajiwalker.atlassian.net/wiki/home" target="blank"><img align="center" src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg?cdnVersion=612" alt="https://balajiwalker.atlassian.net/wiki/home" height="30" width="40" /></a>
 </p>
 </br>
 <h3 align="left">Programming Languages :</h3>
